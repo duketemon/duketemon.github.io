@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 32px;
+}
+
+html, body {
+    height: 100%;
+}
+
+.col-container {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+.col {
+    display: table-cell;
+}
+
+
+#left-col {
+    background-color: #202020;
+    color: white;
+    width: 33%;
+}
+
+#social-media-block {
+  margin: 100px auto;
+  width: 300px;
+}
+
+h2 {
+    font-family: Righteous;
+    font-weight: lighter;
+}
+
+.social-media-links {
+    font-size: 48pt; 
+}
+
+.social-media-links:hover {
+    cursor: pointer;
+    color: #0336FF;
+    transition: color 0.2s ease;
+}
+
+
+#right-col {
+    padding-left: 70px;
+}
+
+#full-name-text {
+    font-size: 40pt; 
+}
+
+#position-text {
+    font-size: 24pt; 
+}
+
+#full-name-text, #position-text {
+    cursor: default;
+}
+
+.category-block {
+    font-size: 32pt;
+}
+
+.project-block {
+    margin-top: 10px;
+}
