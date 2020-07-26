@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 1200px; 
+    margin: 0 auto; 
+    padding: 5px;
+}
+
+header {
+    margin: 20px 0;
+}
+
+img {
+    width: 100%;
+}
+
+tr {
+    margin-top: 500px;
+    margin-bottom: 500px;
+}
+
+.data-visualization-img-block {
+    width: 70%; 
+    padding: 1%; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    cursor: pointer;
+}
+
+.data-visualization-text-block {
+    width: 30%;
+    padding: 2%;
+}
+
+.data-visualization-text-block-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center
+}
+
+.data-visualization-text-block-description {
+    /* font-size: 1.2em; */
+}
+
+
