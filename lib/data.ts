@@ -95,14 +95,14 @@ export const projectsData = [
   },
   {
     title: "Workout Voice Assistant",
-    description: "[deprecated] customizable, easy-to-use assistant used for interval training, HIITs, etc",
+    description: "[deprecated] Android app featuring a customizable assistant designed for interval training, HIITs, and more.",
     url: "https://play.google.com/store/apps/details?id=io.github.duketemon.workout_assistant",
     tags: ["Flutter", "Dart"],
     imageUrl: wvaImg,
   },
   {
     title: "GeoQuiz",
-    description: "[deprecated] Fully offline bunch of geographical quizzes",
+    description: "[deprecated] collection of geographical quizzes available as a fully offline Android app",
     url: "https://play.google.com/store/apps/details?id=io.github.duketemon.GeoQuiz",
     tags: ["Flutter", "Dart"],
     imageUrl: geoQuizImg,
